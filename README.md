@@ -1,2 +1,2 @@
 # odin-recipes
-This is Recipes website for an assignment in The Odin Project
+This is a Recipes website for The Odin Project
